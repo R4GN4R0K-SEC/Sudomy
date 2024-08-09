@@ -125,7 +125,7 @@ Detail information File Reconnaissance & Juicy Data
 - [Sudomy: Information Gathering Tools for Subdomain Enumeration and Analysis](https://iopscience.iop.org/article/10.1088/1757-899X/771/1/012019/meta) -  IOP Conference Series: Materials Science and Engineering, Volume 771, 2nd International Conference on Engineering and Applied Sciences (2nd InCEAS) 16 November 2019, Yogyakarta, Indonesia
 
 ## User Guide
-- Offline User Guide : [Sudomy - Subdomain Enumeration and Analysis User Guide v1.0](https://github.com/Screetsec/Sudomy/blob/master/doc/Sudomy%20-%20Subdomain%20Enumeration%20%26%20Analaysis%20User%20Guide%20v1.0.pdf)
+- Offline User Guide : [Sudomy - Subdomain Enumeration and Analysis User Guide v1.0](https://github.com/R4GN4R0K-SEC/Sudomy/blob/master/doc/Sudomy%20-%20Subdomain%20Enumeration%20%26%20Analaysis%20User%20Guide%20v1.0.pdf)
 - Online User Guide : [Subdomain Enumeration and Analysis User Guide](https://sudomy.screetsec.web.id/features) - Up to date
 
 ## Comparison
@@ -248,7 +248,7 @@ YOUR_WEBHOOK_URL="https://hooks.slack.com/services/T01CGNA9743/B01D6BQNJM6/MRSpV
 |___/\_,_\__,_\____/_|_|_\_, |
                           |__/ v{1.2.1#dev} by @screetsec 
 Sud⍥my - Fast Subdmain Enumeration and Analyzer      
-         http://github.com/screetsec/sudomy
+         http://github.com/R4GN4R0K-SEC/sudomy
 
 Usage: sud⍥my.sh [-h [--help]] [-s[--source]][-d[--domain=]] 
 
@@ -346,13 +346,13 @@ Slack Notification Sample:
 
 
 ## Translations
-- [Indonesia](https://github.com/Screetsec/Sudomy/blob/master/doc/README_ID.md)
-- [English](https://github.com/Screetsec/Sudomy/blob/master/doc/README_EN.md)
-- [Portuguese - Brazil](https://github.com/Screetsec/Sudomy/blob/master/doc/README_PT_BR.md)
+- [Indonesia](https://github.com/R4GN4R0K-SEC/Sudomy/blob/master/doc/README_ID.md)
+- [English](https://github.com/R4GN4R0K-SEC/Sudomy/blob/master/doc/README_EN.md)
+- [Portuguese - Brazil](https://github.com/R4GN4R0K-SEC/Sudomy/blob/master/doc/README_PT_BR.md)
 
 
 ## Changelog
-All notable changes to this project will be documented in this [file](https://github.com/Screetsec/sudomy/blob/master/CHANGELOG.md).
+All notable changes to this project will be documented in this [file](https://github.com/R4GN4R0K-SEC/sudomy/blob/master/CHANGELOG.md).
 
 
 
