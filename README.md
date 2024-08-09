@@ -1,9 +1,8 @@
 # Sudomy
+<h1 align="center"><img width="935" alt="sudomy" src="https://user-images.githubusercontent.com/17976841/102172910-685b5a80-3ecc-11eb-9bac-3003d786dd33.png" /br></h1> 
+
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/Screetsec/Sudomy/blob/master/LICENSE.md)  [![Build Status](https://action-badges.now.sh/screetsec/sudomy)](https://github.com/Screetsec/Sudomy/actions)  [![Version](https://img.shields.io/badge/Release-1.2.1-red.svg?maxAge=259200)]()  [![Build](https://img.shields.io/badge/Supported_OS-Linux-yellow.svg)]()  [![Build](https://img.shields.io/badge/Supported_WSL-Windows-blue.svg)]() [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/screetsec/sudomy/issues) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/screetsec)
 ### Subdomain Enumeration & Analysis
-<img width="935" alt="sudomy" src="https://user-images.githubusercontent.com/17976841/102172910-685b5a80-3ecc-11eb-9bac-3003d786dd33.png">
-
-
 
 ***Sudomy*** is a subdomain enumeration tool to collect subdomains and analyzing domains performing advanced automated reconnaissance (framework). This tool can also be used for OSINT (Open-source intelligence) activities.
 
